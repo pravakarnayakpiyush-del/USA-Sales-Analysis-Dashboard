@@ -1,6 +1,6 @@
 # USA-Sales-Analysis-Dashboard
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard/blob/main/dashboard1.png)
 
 
 ## 📌 Project Overview
@@ -47,4 +47,4 @@ The dashboard includes dynamic filtering by region (Central, East, South, West) 
 ## ⚙️ How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard
+    https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard
