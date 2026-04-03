@@ -1,7 +1,7 @@
 # USA-Sales-Analysis-Dashboard
 
-![Dashboard Preview]([link-to-your-screenshot-image.png](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard/commit/c230649ca873455ad9d3db65e741df588d788577))
-*Replace the link above with the path to the screenshot of your dashboard in your repo.*
+![Dashboard Preview](Screenshot 2026-04-04 000743.png)
+
 
 ## 📌 Project Overview
 This project features a comprehensive **United States Sales Dashboard** designed to analyze and visualize sales performance, profitability, and customer behavior across different regions. It provides actionable insights into key business metrics by comparing Year-over-Year (YoY) data (2019 vs. 2020) and breaking down sales by various categories, segments, and shipping modes.
@@ -47,4 +47,4 @@ The dashboard includes dynamic filtering by region (Central, East, South, West) 
 ## ⚙️ How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone [[https://github.com/yourusername/US-Sales-Dashboard.git](https://github.com/yourusername/US-Sales-Dashboard.git](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard)
+   git clone [https://github.com/yourusername/US-Sales-Dashboard.git](https://github.com/yourusername/US-Sales-Dashboard.git)(https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard)
