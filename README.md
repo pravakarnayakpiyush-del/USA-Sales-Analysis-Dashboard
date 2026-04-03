@@ -1,6 +1,6 @@
 # USA-Sales-Analysis-Dashboard
 
-![Dashboard Preview](Screenshot 2026-04-04 000743.png)
+![Dashboard Screenshot]()
 
 
 ## 📌 Project Overview
@@ -30,7 +30,7 @@ The dashboard includes dynamic filtering by region (Central, East, South, West) 
     * Sales and Profit by State - *Geospatial Map Visualization*
 
 ## 🛠️ Tools & Technologies Used
-* **Data Visualization:** [e.g., Power BI / Tableau / Excel] *(Note: The map uses Microsoft Bing, suggesting Power BI or Excel)*
+* **Data Visualization:** [e.g., Power BI / Tableau / Excel] 
 * **Data Processing/Cleaning:** [e.g., Power Query, Python, Pandas]
 * **Database/Source:** [e.g., SQL Server, CSV, Kaggle]
 
@@ -47,4 +47,4 @@ The dashboard includes dynamic filtering by region (Central, East, South, West) 
 ## ⚙️ How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/US-Sales-Dashboard.git](https://github.com/yourusername/US-Sales-Dashboard.git)(https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard)
+   git clone https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard
