@@ -1,6 +1,6 @@
 # USA-Sales-Analysis-Dashboard
 
-![Dashboard Preview](link-to-your-screenshot-image.png)
+![Dashboard Preview]([link-to-your-screenshot-image.png](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard/commit/c230649ca873455ad9d3db65e741df588d788577))
 *Replace the link above with the path to the screenshot of your dashboard in your repo.*
 
 ## 📌 Project Overview
