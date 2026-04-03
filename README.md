@@ -1,6 +1,7 @@
 # USA-Sales-Analysis-Dashboard
 
 ![Dashboard Screenshot](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard/blob/main/dashboard1.png)
+![Dashboard Screenshot](https://github.com/pravakarnayakpiyush-del/USA-Sales-Analysis-Dashboard/blob/main/dashboard2%20.png)
 
 
 ## 📌 Project Overview
